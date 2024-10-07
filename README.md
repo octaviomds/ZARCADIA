@@ -22,6 +22,11 @@ EXEMPLE DE  ZOO ARCADIA:
 https://github.com/user-attachments/assets/a0db9e44-c335-4f4b-be38-40969afee6f7
 
 
+EXEMPLE DE LA PARTIE HTLM ET CSS:
+
+
+![Image 07-10-2024 à 21 21](https://github.com/user-attachments/assets/a4a0a493-5474-4f83-9d33-0854da1681b4)
+
 
 
 
