@@ -11,8 +11,6 @@
 
 
 
-![Capture d’écran 2024-10-05 à 16 11 07](https://github.com/user-attachments/assets/8a900fae-232f-47b9-9cde-fe67285936b6)
-
 
 EXEMPLE DE  ZOO ARCADIA:
 
