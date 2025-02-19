@@ -21,6 +21,7 @@ https://github.com/user-attachments/assets/a0db9e44-c335-4f4b-be38-40969afee6f7
 
 
 
+exemple de site internet:
 
 
-
+![Image 19-02-2025 à 23 52 3](https://github.com/user-attachments/assets/5de1b048-4e09-41ef-9811-71f361c228bf)
