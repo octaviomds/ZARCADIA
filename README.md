@@ -21,7 +21,11 @@ https://github.com/user-attachments/assets/a0db9e44-c335-4f4b-be38-40969afee6f7
 
 
 
-exemple de site internet:
+exemple de site internet avec postgres/mysql:
 
 
 ![Image 19-02-2025 à 23 52 3](https://github.com/user-attachments/assets/5de1b048-4e09-41ef-9811-71f361c228bf)
+
+![Image 20-02-2025 à 06 09](https://github.com/user-attachments/assets/0c3a0ca2-7af0-44a8-8a07-605256253e86)
+
+![Image 20-02-2025 à 06 06 2](https://github.com/user-attachments/assets/fe0c6ee1-1657-49f7-bb7c-332da3405fe9)
