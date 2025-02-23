@@ -1,3 +1,11 @@
+EXEMPLE DE SITE:
+
+<img width="1477" alt="Capture d’écran 2025-02-23 à 03 06 48" src="https://github.com/user-attachments/assets/edfecf23-28b0-4ffe-bcf4-ac56ba52ff7f" />
+
+
+<img width="1301" alt="Capture d’écran 2025-02-23 à 03 28 55" src="https://github.com/user-attachments/assets/6552d794-cbef-44ea-b39a-d1e2dd273e70" />
+
+
 
 ![Image 21-02-2025 à 13 55](https://github.com/user-attachments/assets/8fe3cd13-020c-415a-9373-5b5166d1d114)
 
