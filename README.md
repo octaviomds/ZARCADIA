@@ -1,5 +1,8 @@
 EXEMPLE DE SITE:
 
+exemple de table:
+
+![Image 24-03-2025 à 08 43](https://github.com/user-attachments/assets/a4732b7f-1d05-4cc0-b2c5-6dc012040053)
 
 
 
